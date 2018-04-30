@@ -60,10 +60,10 @@
   - [x] [AOJ 0121: Seven Puzzle](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0121)
 
 - 穷竭搜索
-  - [x] [POJ 2718: Smallest Difference](http://poj.org/problem?id=2718)
-  - [x] [POJ 3187: Backward Digit Sums](http://poj.org/problem?id=3187)
+  - [x] [POJ 2718: Smallest Difference](http://poj.org/problem?id=2718) （看题解是next_perrmutation然后求解，不过我用贪心发现有问题）
+  - [x] [POJ 3187: Backward Digit Sums](http://poj.org/problem?id=3187)
   - [x] [POJ 3050: Hopscotch](http://poj.org/problem?id=3050)
-  - [x] [AOJ 0525: Osenbei](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0525)
+  - [x] [AOJ 0525: Osenbei](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0525)（2个方向的dfs，因为两个方向是独立的，所以可以分别dfs）
 
 # 2.2 贪心法
 - 区间贪心
